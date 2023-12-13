@@ -2,9 +2,9 @@
 Currently seeking Senior DevOps Engineer role
 
 ## Git Statistics from private repositories
-* ![Git Stats 2023](images/git_stats_2023.pn?raw=true "Git Stats 2023")
-* ![Git Stats 2022](images/git_stats_2022.pn?raw=true "Git Stats 2022")
-* ![Git Stats 2021](images/git_stats_2021.pn?raw=true "Git Stats 2021")
+* ![Git Stats 2023](images/git_stats_2023.png?raw=true "Git Stats 2023")
+* ![Git Stats 2022](images/git_stats_2022.png?raw=true "Git Stats 2022")
+* ![Git Stats 2021](images/git_stats_2021.png?raw=true "Git Stats 2021")
 
 <!--
 **whateverany/whateverany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
