@@ -1,6 +1,3 @@
-### #opentowork
-Currently seeking Senior DevOps Engineer role
-
 ## Git Statistics from private repositories
 ![Repository B 2023](images/git_stats_repo_B.3.png?raw=true "Repository B 2023")
 
